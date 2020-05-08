@@ -1,4 +1,0 @@
-AuthUserFile /home/facundol/sitios/jpdelre.com.ar/test/snake/editor/.htpasswd
-AuthType Basic
-AuthName "Area restringida"
-Require valid-user
